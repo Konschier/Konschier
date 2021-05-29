@@ -54,42 +54,37 @@
 📍 **SENAI** - Curitiba, Brazil
 
 ## Experience
-
-- 👨‍💻 **Python Developer**\
-📆 2021 - Moment\
-📍 **Global Hitss** - Rio de Janeiro/RJ, Brazil
-
+  
 <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white" />
 <img align="right" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />   
 <img align="right" src="https://img.shields.io/badge/-ElasticSearch-005571?logo=elasticsearch&logoColor=white" />
-     
-- 👨‍💻 **Fullstack Developer**\
-📆 2020 - 2021\
-📍 **Flieger Software** - Curitiba/PR, Brazil
+
+- 👨‍💻 **Python Developer**\
+📆 2021 - Moment\
+📍 **Global Hitss** - Rio de Janeiro/RJ, Brazil
 
 <img align="right" src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" />
 <img align="right" src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vue-dot-js&logoColor=%234FC08D" />
-
-- 👨‍💻 **Backend Developer**\
-📆 2020\
-📍 **Proxys Group** - Curitiba/PR, Brazil
-
+     
+- 👨‍💻 **Fullstack Developer**\
+📆 2020 - 2021\
+📍 **Flieger Software** - Curitiba/PR, Brazil
+  
 <img align="right" src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vue-dot-js&logoColor=%234FC08D" />
 <img align="right" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/gitlab-%23181717.svg?logo=gitlab&logoColor=white" />
 
+- 👨‍💻 **Backend Developer**\
+📆 2020\
+📍 **Proxys Group** - Curitiba/PR, Brazil
 
-- 👨‍💻 **Freelancer**\
-📆 2016 - 2020\
-📍 **Schier Soluções** - Curitiba/PR, Brazil
-  
 <img align="right" src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white" />
@@ -100,6 +95,12 @@
 <img align="right" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&ogoColor=white"/>
+
+- 👨‍💻 **Freelancer**\
+📆 2016 - 2020\
+📍 **Schier Soluções** - Curitiba/PR, Brazil
+  
+
 
 <!--## Skills
 
